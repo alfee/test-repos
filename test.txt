@@ -7,9 +7,6 @@ hoge
 
 hoge
 
-
-hoge
-
 1
 2
 3
